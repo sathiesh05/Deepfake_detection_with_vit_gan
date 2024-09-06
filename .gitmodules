@@ -1,3 +1,0 @@
-[submodule "stylegan2_ada_pytorch"]
-	path = stylegan2_ada_pytorch
-	url = https://github.com/NVlabs/stylegan2-ada-pytorch.git
