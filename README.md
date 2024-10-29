@@ -43,8 +43,8 @@ pip install torch torchvision transformers streamlit librosa opencv-python movie
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/yourusername/deepfake-detection.git
-    cd deepfake-detection
+    git clone https://github.com/sathiesh05/Deepfake_detection_with_vit_gan.git
+    cd Deepfake_detection_with_vit_gan
     ```
 
 2. Install the required packages (as mentioned above).
